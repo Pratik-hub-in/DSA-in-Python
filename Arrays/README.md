@@ -15,12 +15,18 @@ This folder contains Python implementations of array-based problems.
 
 ## Problems
 
-| No. | Problem | Status |
-|----|----------|--------|
-| 1 | Array Rank Transform | ✅ |
-| 2 | Two Sum | ⏳ |
-| 3 | Maximum Subarray | ⏳ |
-| 4 | Contains Duplicate | ⏳ |
-| 5 | Merge Sorted Array | ⏳ |
-
-More problems will be added regularly.
+| No. | Implementation | Status |
+|-----|----------------|--------|
+| 01 | Array Traversal | ✅ |
+| 02 | Array Insertion | ✅ |
+| 03 | Array Deletion | ✅ |
+| 04 | Linear Search | ✅ |
+| 05 | Binary Search | ✅ |
+| 06 | Find Maximum & Minimum | ✅ |
+| 07 | Reverse Array | ⏳ |
+| 08 | Left Rotation | ⏳ |
+| 09 | Right Rotation | ⏳ |
+| 10 | Remove Duplicates | ⏳ |
+| 11 | Prefix Sum | ⏳ |
+| 12 | Sliding Window | ⏳ |
+| 13 | Two Pointer Technique | ⏳ |
