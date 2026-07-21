@@ -24,8 +24,8 @@ This folder contains Python implementations of array-based problems.
 | 05 | Binary Search | ✅ |
 | 06 | Find Maximum & Minimum | ✅ |
 | 07 | Reverse Array | ✅ |
-| 08 | Left Rotation | ⏳ |
-| 09 | Right Rotation | ⏳ |
+| 08 | Left Rotation | ✅ |
+| 09 | Right Rotation | ✅ |
 | 10 | Remove Duplicates | ⏳ |
 | 11 | Prefix Sum | ⏳ |
 | 12 | Sliding Window | ⏳ |
