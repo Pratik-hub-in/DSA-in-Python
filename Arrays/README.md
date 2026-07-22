@@ -28,5 +28,5 @@ This folder contains Python implementations of array-based problems.
 | 09 | Right Rotation | ✅ |
 | 10 | Remove Duplicates | ✅ |
 | 11 | Prefix Sum | ✅ |
-| 12 | Sliding Window | ⏳ |
+| 12 | Sliding Window | ✅ |
 | 13 | Two Pointer Technique | ⏳ |
