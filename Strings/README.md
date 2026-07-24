@@ -28,7 +28,7 @@ Strings are one of the most commonly used data structures in programming. Unders
 | No. | Implementation | Status |
 |-----|----------------|--------|
 | 01 | String Traversal | ✅ |
-| 02 | String Length | ⏳ |
+| 02 | String Length | ✅ |
 | 03 | Reverse String | ⏳ |
 | 04 | Palindrome Check | ⏳ |
 | 05 | Character Frequency | ⏳ |
@@ -39,7 +39,6 @@ Strings are one of the most commonly used data structures in programming. Unders
 | 10 | String Compression | ⏳ |
 | 11 | Sliding Window | ⏳ |
 | 12 | Two Pointer Technique | ⏳ |
-
 ---
 
 More implementations will be added as part of my DSA learning journey.
