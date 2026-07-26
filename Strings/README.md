@@ -30,8 +30,8 @@ Strings are one of the most commonly used data structures in programming. Unders
 | 01 | String Traversal | ✅ |
 | 02 | String Length | ✅ |
 | 03 | Reverse String | ✅ |
-| 04 | Palindrome Check | ⏳ |
-| 05 | Character Frequency | ⏳ |
+| 04 | Palindrome Check | ✅ |
+| 05 | Character Frequency | ✅ |
 | 06 | Remove Whitespace | ⏳ |
 | 07 | Count Vowels & Consonants | ⏳ |
 | 08 | Anagram Check | ⏳ |
@@ -39,5 +39,4 @@ Strings are one of the most commonly used data structures in programming. Unders
 | 10 | String Compression | ⏳ |
 | 11 | Sliding Window | ⏳ |
 | 12 | Two Pointer Technique | ⏳ |
-
 More implementations will be added as part of my DSA learning journey.
