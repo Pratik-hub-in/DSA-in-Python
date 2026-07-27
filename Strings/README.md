@@ -33,7 +33,7 @@ Strings are one of the most commonly used data structures in programming. Unders
 | 04 | Palindrome Check | ✅ |
 | 05 | Character Frequency | ✅ |
 | 06 | Remove Whitespace | ✅ |
-| 07 | Count Vowels & Consonants | ⏳ |
+| 07 | Count Vowels & Consonants | ✅ |
 | 08 | Anagram Check | ⏳ |
 | 09 | Longest Common Prefix | ⏳ |
 | 10 | String Compression | ⏳ |
