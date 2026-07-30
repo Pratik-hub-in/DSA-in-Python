@@ -37,6 +37,6 @@ Strings are one of the most commonly used data structures in programming. Unders
 | 08 | Anagram Check | ✅ |
 | 09 | Longest Common Prefix | ✅ |
 | 10 | String Compression | ✅ |
-| 11 | Sliding Window | ⏳ |
+| 11 | Sliding Window | ✅ |
 | 12 | Two Pointer Technique | ⏳ |
 More implementations will be added as part of my DSA learning journey.
