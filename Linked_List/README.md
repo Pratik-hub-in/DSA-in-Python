@@ -27,7 +27,7 @@ A Linked List is a linear data structure where elements are stored in nodes. Eac
 | No. | Implementation | Status |
 |-----|----------------|--------|
 | 01 | Singly Linked List | ✅ |
-| 02 | Insertion | ⏳ |
+| 02 | Insertion | ✅ |
 | 03 | Deletion | ⏳ |
 | 04 | Search | ⏳ |
 | 05 | Reverse Linked List | ⏳ |
