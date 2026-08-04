@@ -31,8 +31,8 @@ A Linked List is a linear data structure where elements are stored in nodes. Eac
 | 03 | Deletion | ✅ |
 | 04 | Search | ✅ |
 | 05 | Reverse Linked List | ✅ |
-| 06 | Find Middle Node | ⏳ |
-| 07 | Detect Cycle | ⏳ |
+| 06 | Find Middle Node | ✅ |
+| 07 | Detect Cycle | ✅ |
 | 08 | Merge Two Sorted Lists | ⏳ |
 | 09 | Remove Nth Node From End | ⏳ |
 | 10 | Doubly Linked List | ⏳ |
