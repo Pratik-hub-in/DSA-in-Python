@@ -23,10 +23,12 @@ A Stack is a linear data structure that follows the **LIFO (Last In, First Out)*
 
 ## 📋 Implementations
 
+## 📋 Implementations
+
 | No. | Implementation | Status |
 |-----|----------------|--------|
 | 01 | Stack Using List | ✅ |
-| 02 | Stack Using Linked List | ⏳ |
+| 02 | Stack Using Linked List | ✅ |
 | 03 | Balanced Parentheses | ⏳ |
 | 04 | Infix to Postfix | ⏳ |
 | 05 | Postfix Evaluation | ⏳ |
