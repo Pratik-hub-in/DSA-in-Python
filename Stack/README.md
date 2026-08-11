@@ -30,9 +30,9 @@ A Stack is a linear data structure that follows the **LIFO (Last In, First Out)*
 | 03 | Balanced Parentheses | ✅ |
 | 04 | Infix to Postfix | ✅ |
 | 05 | Postfix Evaluation | ✅ |
-| 06 | Min Stack | ⏳ |
-| 07 | Next Greater Element | ⏳ |
-| 08 | Monotonic Stack | ⏳ |
+| 06 | Min Stack | ✅ |
+| 07 | Next Greater Element | ✅ |
+| 08 | Monotonic Stack | ✅ |
 | 09 | Largest Rectangle Histogram | ⏳ |
 | 10 | Two Stacks | ⏳ |
 ---
