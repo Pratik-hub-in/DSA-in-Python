@@ -33,7 +33,7 @@ A Stack is a linear data structure that follows the **LIFO (Last In, First Out)*
 | 06 | Min Stack | ✅ |
 | 07 | Next Greater Element | ✅ |
 | 08 | Monotonic Stack | ✅ |
-| 09 | Largest Rectangle Histogram | ⏳ |
+| 09 | Largest Rectangle Histogram | ✅ |
 | 10 | Two Stacks | ⏳ |
 ---
 
