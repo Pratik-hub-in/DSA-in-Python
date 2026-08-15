@@ -20,13 +20,12 @@ A Queue is a linear data structure that follows the **FIFO (First In, First Out)
 - Round Robin Scheduling
 
 ---
-
 ## 📋 Implementations
 
 | No. | Implementation | Status |
 |-----|----------------|--------|
 | 01 | Queue Using List | ✅ |
-| 02 | Queue Using Deque | ⏳ |
+| 02 | Queue Using Deque | ✅ |
 | 03 | Queue Using Linked List | ⏳ |
 | 04 | Circular Queue | ⏳ |
 | 05 | Queue Using Two Stacks | ⏳ |
