@@ -26,7 +26,7 @@ A Queue is a linear data structure that follows the **FIFO (First In, First Out)
 |-----|----------------|--------|
 | 01 | Queue Using List | ✅ |
 | 02 | Queue Using Deque | ✅ |
-| 03 | Queue Using Linked List | ⏳ |
+| 03 | Queue Using Linked List | ✅ |
 | 04 | Circular Queue | ⏳ |
 | 05 | Queue Using Two Stacks | ⏳ |
 | 06 | Priority Queue | ⏳ |
@@ -35,6 +35,15 @@ A Queue is a linear data structure that follows the **FIFO (First In, First Out)
 | 09 | Rotting Oranges | ⏳ |
 | 10 | Round Robin Scheduling | ⏳ |
 
+---
+## ⚡ Implementation Comparison
+
+| Implementation | Enqueue | Dequeue | Space | Main Concept |
+|----------------|---------|---------|-------|--------------|
+| Python List | O(1) | O(n) | O(n) | Basic implementation |
+| Python Deque | O(1) | O(1) | O(n) | Efficient built-in Queue |
+| Linked List | O(1) | O(1) | O(n) | Dynamic implementation |
+| Circular Queue | O(1) | O(1) | O(n) | Fixed-size efficient Queue |
 ---
 
 ## 🔑 Core Queue Operations
