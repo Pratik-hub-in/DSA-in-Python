@@ -31,8 +31,8 @@ A Queue is a linear data structure that follows the **FIFO (First In, First Out)
 | 05 | Queue Using Two Stacks | ✅ |
 | 06 | Priority Queue | ✅ |
 | 07 | Deque | ✅ |
-| 08 | First Non-Repeating Character | ⏳ |
-| 09 | Rotting Oranges | ⏳ |
+| 08 | First Non-Repeating Character | ✅ |
+| 09 | Rotting Oranges | ✅ |
 | 10 | Round Robin Scheduling | ⏳ |
 ---
 ## ⚡ Implementation Comparison
