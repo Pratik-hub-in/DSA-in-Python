@@ -33,7 +33,7 @@ A Queue is a linear data structure that follows the **FIFO (First In, First Out)
 | 07 | Deque | ✅ |
 | 08 | First Non-Repeating Character | ✅ |
 | 09 | Rotting Oranges | ✅ |
-| 10 | Round Robin Scheduling | ⏳ |
+| 10 | Round Robin Scheduling | ✅ |
 ---
 ## ⚡ Implementation Comparison
 
@@ -81,3 +81,148 @@ Queues are commonly used in:
 - Network Packet Processing
 - Customer Service Systems
 - Operating System Process Management
+
+
+
+
+---
+
+## ⭐ Priority Queue
+
+A Priority Queue processes elements according to their priority.
+
+This repository uses Python's `heapq` module to implement a
+Min Priority Queue.
+
+### Complexity
+
+| Operation | Complexity |
+|-----------|------------|
+| Enqueue | O(log n) |
+| Dequeue | O(log n) |
+| Peek | O(1) |
+| Is Empty | O(1) |
+
+### Applications
+
+- CPU Scheduling
+- Dijkstra's Algorithm
+- Prim's Algorithm
+- Task Scheduling
+- Network Packet Processing
+- Event Simulation
+
+---
+
+## 🔄 Deque
+
+A Deque (Double-Ended Queue) allows insertion and deletion
+from both the front and rear.
+
+### Applications
+
+- Sliding Window Problems
+- Palindrome Checking
+- Browser History
+- Task Scheduling
+- Undo/Redo Systems
+- BFS Variations
+
+---
+
+## 🔤 First Non-Repeating Character
+
+This problem demonstrates how a Queue can be combined with
+frequency counting.
+
+### Data Structures Used
+
+- Queue (`deque`) → Maintains character order
+- Dictionary / Counter → Stores character frequencies
+
+### Complexity
+
+| Operation | Complexity |
+|-----------|------------|
+| Frequency Counting | O(n) |
+| Queue Processing | O(n) |
+| Total | O(n) |
+| Extra Space | O(n) |
+
+### Example
+
+Input:
+
+"swiss"
+
+Output:
+
+"w"
+---
+
+## 🍊 Rotting Oranges
+
+The Rotting Oranges problem demonstrates **Multi-Source BFS**.
+
+### Concepts Used
+
+- Queue
+- BFS
+- Multi-Source BFS
+- Matrix Traversal
+- Level-Order Processing
+
+### Complexity
+
+| Complexity | Value |
+|------------|-------|
+| Time | O(rows × columns) |
+| Space | O(rows × columns) |
+
+### Applications
+
+BFS-based techniques are useful in:
+
+- Shortest Path Problems
+- Network Propagation
+- Infection Spread Simulation
+- Grid Traversal
+- Distance Calculation
+- Flood Fill Problems
+---
+## 🖥️ Round Robin Scheduling
+
+Round Robin is a preemptive CPU scheduling algorithm.
+
+Each process receives a fixed amount of CPU time called
+the **Time Quantum**.
+
+If a process is not completed during its turn, it is placed
+at the rear of the Queue.
+
+### Concepts Used
+
+- Queue
+- FIFO
+- CPU Scheduling
+- Time Quantum
+- Preemption
+- Gantt Chart
+
+### Important Formulas
+
+Turnaround Time:
+
+    TAT = Completion Time - Arrival Time
+
+Waiting Time:
+
+    WT = Turnaround Time - Burst Time
+
+### Applications
+
+- Operating Systems
+- Time-Sharing Systems
+- CPU Scheduling
+- Process Management
+- Multi-tasking Systems
